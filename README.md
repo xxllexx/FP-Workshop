@@ -8,6 +8,7 @@
 1. [**Functional programming patterns for the non-mathematician (github)**](https://github.com/DrBoolean/patterns_talk)
 1. [**Functional JavaScript, Part 4: Function Currying**](http://tech.pro/tutorial/2011/functional-javascript-part-4-function-currying)
 1. [**A Gentle Intro to Monads … Maybe?**](http://sean.voisen.org/blog/2013/10/intro-monads-maybe/)
+1. [**Douglas Crockford: Monads and Gonads**](https://www.youtube.com/watch?v=dkZFtimgAcM)
 1. [Martin Fowler **Collection Pipeline**](http://martinfowler.com/articles/collection-pipeline/)
 1. [**From Map/Reduce to JavaScript Functional Programming**](https://hacks.mozilla.org/2015/01/from-mapreduce-to-javascript-functional-programming/)
 1. [**Code for workshop was taken from this book**](http://www.amazon.com/Functional-JavaScript-Introducing-Programming-Underscore-js/dp/1449360726)
